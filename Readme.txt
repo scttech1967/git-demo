@@ -3,4 +3,6 @@ Selenium WebDriver with Python - Basics to Intermediate, Sect 16.74 - Running Se
 
 This is the final code base in the entire course. Experiment as needed.
 
+What's the word, sister?
+
 URL: https://www.udemy.com/course/selenium-webdriver-with-python
